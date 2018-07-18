@@ -1,0 +1,22 @@
+{
+  "name": "cl-tictactoe",
+  "version": "1.0.0",
+  "description": "Command-line Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmattingly/cl-TicTacToe.git"
+  },
+  "author": "Zane Mattingly <z@matting.ly>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmattingly/cl-TicTacToe/issues"
+  },
+  "homepage": "https://github.com/zmattingly/cl-TicTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
